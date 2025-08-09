@@ -13,7 +13,7 @@ Viewmodel
 viewmodel_fov 60; viewmodel_offset_x -1; viewmodel_offset_y 1.5; viewmodel_offset_z -2; viewmodel_presetpos 0;
 
 Launch Options
-+exec main.cfg -novid -freq 165 -console
++exec noro.cfg -novid -freq 165 -console
 
 Video Settings
 ⦁	Resolution - 1280x960
