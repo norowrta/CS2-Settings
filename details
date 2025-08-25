@@ -42,9 +42,8 @@ HUD Color - White
 Large Player Count - Yes
 
 Radar
-⦁	Radar Centers The Player - No
-⦁	Radar is Rotating - Yes
 ⦁	Radar Hud Map Blends With Background - Yes
 ⦁	Blur Background - Yes
+⦁	Radar Hud Background Opacity - 0.625
 ⦁	Radar Hud Size - 1.30
-⦁	Radar Map Zoom - 0.43
+⦁	Force Square Shape - Yes
